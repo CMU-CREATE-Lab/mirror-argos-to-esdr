@@ -2,5 +2,6 @@
 esdr-auth-*.json
 argos-auth.json
 *~
-mirror-argos-to-esdr.ipynb.lock
-mirror-argos-to-esdr.ipynb.log
+*.lock
+*.log
+*.ipynb.sage-jupyter2
